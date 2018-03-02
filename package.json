@@ -1,0 +1,16 @@
+{
+  "name": "aef-data",
+  "version": "1.0.0",
+  "description": "Data collected aboard Swale during Eco_Hack 2016.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "author": "chihao <chihaoyo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^4.10.1",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
