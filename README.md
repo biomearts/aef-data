@@ -13,7 +13,6 @@
   - Real config is kept private
 
 ## How to run
-```
-$ npm i
-$ npm run dev
-```
+1. Create real `/config/firebase.js`
+2. `$ npm i`
+3. `$ npm run dev`
